@@ -1,0 +1,16 @@
+{
+  "products": [
+    { "id": 1, "title": "IPhone 16", "description": "Iphone16 is officially announced...", "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-pro-max.png", "price": 1200 },
+    { "id": 2, "title": "OPPOF19", "description": "OPPO F19 is officially announced...", "image": "https://cdn.tgdd.vn/Files/2021/04/04/1340723/oppo-f19-ra-mat-snapdragon-662-3-camera-sau-48mp-1.jpg", "price": 400 },
+    { "id": 3, "title": "Huawei P30", "description": "Huawei’s re-badged P30 Pro...", "image": "https://salt.tikicdn.com/cache/w1200/ts/product/1d/51/f1/173a54df6cdd435aa0fa278b60d0d323.jpg", "price": 520 },
+    { "id": 4, "title": "MacBook Pro", "description": "MacBook Pro 2021 with mini-LED...", "image": "https://www.duchuymobile.com/images/detailed/45/slider-macbook-pro.jpg", "price": 2100 },
+    { "id": 5, "title": "Samsung Galaxy Book", "description": "Samsung Galaxy Book S (2020)...", "image": "https://phongvu.vn/cong-nghe/wp-content/uploads/sites/2/2020/06/Galaxy-Book-S-Lakefield-phong-vu-3.jpg", "price": 890 },
+    { "id": 6, "title": "Microsoft Surface Laptop", "description": "Style and speed. Stand out...", "image": "https://laptopphuocdat.com/wp-content/uploads/2024/06/Surface-laptop-Studio-avt.png", "price": 1199 },
+    { "id": 7, "title": "Infinix INBOOK", "description": "Infinix Inbook X1 Ci3 10th...", "image": "https://mrlaptop.pk/wp-content/uploads/2021/09/x1pro_bg.png", "price": 499 },
+    { "id": 8, "title": "HP Pavilion 15-DK1056WM", "description": "HP Pavilion 15 gaming laptop...", "image": "https://m.media-amazon.com/images/I/611Fwb1gggS.jpg", "price": 899 },
+    { "id": 9, "title": "Dell XPS 13", "description": "Premium ultrabook experience...", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTstY0Qd0mZjnSgX248MDK9puznGK5pjC1PIQ&s", "price": 1399 },
+    { "id": 10, "title": "ASUS TUF Gaming", "description": "Durable performance gaming...", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbVB1r1yxjYnmzZsUZnsOuanJ5PQNkvhAWQ&s", "price": 1099 },
+    { "id": 11, "title": "Lenovo ThinkPad X1", "description": "Business-class ultrabook...", "image": "https://laptopkhanhtran.vn/pic/product/ThinkPad-_638640830315610019_HasThumb.jpg", "price": 1599 },
+    { "id": 12, "title": "Acer Swift 3", "description": "Thin & light everyday laptop...", "image": "https://cdn.tgdd.vn/Products/Images/44/285765/acer-swift-3-sf314-512-56qn-i5-nxk0fsv002-ab-thumb-600x600.jpg", "price": 749 }
+  ]
+}
